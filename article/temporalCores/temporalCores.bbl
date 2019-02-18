@@ -1,0 +1,50 @@
+\begin{thebibliography}{1}
+
+\bibitem{pqcore}
+A.~Ahmed, V.~Batagelj, X.~Fu, S.-H. Hong, D.~Merrick, and A.~Mrvar.
+\newblock Visualisation and analysis of the internet movie database.
+\newblock In {\em 6th International Asia-Pacific Symposium on Visualization},
+  page 17–24. IEEE, 2007.
+
+\bibitem{community}
+H.~Aksu, M.~Canim, Y.-C. Chang, I.~Korpeoglu, and Ö.~Ulusoy.
+\newblock A fast order-based approach for core maintenance.
+\newblock In {\em 2017 IEEE 33rd International Conference on Data Engineering}.
+  IEEE, 2017.
+
+\bibitem{batcores}
+V.~Batagelj and M.~Zaveršnik.
+\newblock Fast algorithms for determining (generalized) core groups in social
+  networks.
+\newblock {\em Advances in Data Analysis and Classification}, 5:129–145, 2010.
+
+\bibitem{stembib}
+G.~Cantos-Mateos, M.A. Zulueta, B.~Vargas-Quesada, and Z.~Chinchilla-Rodriguez.
+\newblock Estudio evolutivo de la investigacion espanola con celulas madre.
+  visualizacion e identificacion de las principales l'ineas de investigacion.
+\newblock {\em El Profesional de la Informacion}, 23(3):259--271, 2014.
+
+\bibitem{gen2modecore}
+M.~Cerinšek and V.~Batagelj.
+\newblock Generalized two-mode cores.
+\newblock {\em Social Networks}, 42:80--87, 2015.
+
+\bibitem{violencebib}
+R.~Franzosi.
+\newblock Mobilization and countermobilization processes: From the red years
+  (1919-20) to the black years (1921-22) in italy. a new methodological
+  approach to the study of narrative data.
+\newblock {\em Theory and Society}, 26(2-3):275--304, 1997.
+
+\bibitem{seidman}
+S.~B. Seidman.
+\newblock Network structure and minimum degree.
+\newblock {\em Social Networks}, 5:269–287, 1983.
+
+\bibitem{core1}
+Y.~Zhang, J.~Xu~Yu, Y.~Zhang, and L.~Qin.
+\newblock A fast order-based approach for core maintenance.
+\newblock In {\em 2017 IEEE 33rd International Conference on Data Engineering}.
+  IEEE, 2017.
+
+\end{thebibliography}
