@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.14)  18 FEB 2019 10:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.14)  18 FEB 2019 13:01
 entering extended mode
 **./temporalCores.tex
 (temporalCores.tex
@@ -408,24 +408,26 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 107.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 107.
- [2]
-<./pics/kcore.pdf, id=27, 603.25375pt x 464.73625pt>
-File: ./pics/kcore.pdf Graphic file (type pdf)
- <use ./pics/kcore.pdf>
-Package pdftex.def Info: ./pics/kcore.pdf used on input line 149.
-(pdftex.def)             Requested size: 345.0pt x 265.78172pt.
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 162.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 114.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 162.
- [3 <./pics/kcore.pdf>] <./pics/Fig5.png, id=34, 499.26524pt x 492.6405pt>
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 114.
+ [2]
+<./pics/kcore.pdf, id=27, 603.25375pt x 464.73625pt>
+File: ./pics/kcore.pdf Graphic file (type pdf)
+ <use ./pics/kcore.pdf>
+Package pdftex.def Info: ./pics/kcore.pdf used on input line 152.
+(pdftex.def)             Requested size: 345.0pt x 265.78172pt.
+
+[3 <./pics/kcore.pdf>] <./pics/Fig5.png, id=34, 499.26524pt x 492.6405pt>
 File: ./pics/Fig5.png Graphic file (type png)
- <use ./pics/Fig5.png>
-Package pdftex.def Info: ./pics/Fig5.png used on input line 189.
+
+<use ./pics/Fig5.png>
+Package pdftex.def Info: ./pics/Fig5.png used on input line 192.
 (pdftex.def)             Requested size: 241.49895pt x 238.29892pt.
 
 
@@ -435,262 +437,265 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ./pics/a-page-001.jpg Graphic file (type jpg)
 
 <use ./pics/a-page-001.jpg>
-Package pdftex.def Info: ./pics/a-page-001.jpg used on input line 211.
+Package pdftex.def Info: ./pics/a-page-001.jpg used on input line 214.
 (pdftex.def)             Requested size: 155.24895pt x 107.58398pt.
 
 <./pics/b-page-001.jpg, id=45, 441.8106pt x 305.943pt>
 File: ./pics/b-page-001.jpg Graphic file (type jpg)
 
 <use ./pics/b-page-001.jpg>
-Package pdftex.def Info: ./pics/b-page-001.jpg used on input line 212.
+Package pdftex.def Info: ./pics/b-page-001.jpg used on input line 215.
 (pdftex.def)             Requested size: 155.24895pt x 107.50645pt.
 
 <./pics/sum-page-001.jpg, id=46, 439.8834pt x 304.4976pt>
 File: ./pics/sum-page-001.jpg Graphic file (type jpg)
 
 <use ./pics/sum-page-001.jpg>
-Package pdftex.def Info: ./pics/sum-page-001.jpg used on input line 214.
+Package pdftex.def Info: ./pics/sum-page-001.jpg used on input line 217.
 (pdftex.def)             Requested size: 155.24895pt x 107.46783pt.
 
 <./pics/pro-page-001.jpg, id=47, 436.5108pt x 302.0886pt>
 File: ./pics/pro-page-001.jpg Graphic file (type jpg)
 
 <use ./pics/pro-page-001.jpg>
-Package pdftex.def Info: ./pics/pro-page-001.jpg used on input line 215.
+Package pdftex.def Info: ./pics/pro-page-001.jpg used on input line 218.
 (pdftex.def)             Requested size: 155.24895pt x 107.4427pt.
- [5 <./pics/Fig5.png> <./pics/a-page-001.jpg> <./pics/b-page-001.jpg> <./pics/s
-um-page-001.jpg> <./pics/pro-page-001.jpg>]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <./pics/Fig5.png>]
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
-) [6]
-Overfull \hbox (7.78117pt too wide) in paragraph at lines 266--267
+) [6 <./pics/a-page-001.jpg> <./pics/b-page-001.jpg> <./pics/sum-page-001.jpg> 
+<./pics/pro-page-001.jpg>]
+Overfull \hbox (7.78117pt too wide) in paragraph at lines 269--270
 [][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (6.44792pt too wide) in paragraph at lines 268--269
+Overfull \hbox (6.44792pt too wide) in paragraph at lines 271--272
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
+[7]
 File: ./pics/Fig5.png Graphic file (type png)
-
-<use ./pics/Fig5.png>
-Package pdftex.def Info: ./pics/Fig5.png used on input line 307.
+ <use ./pics/Fig5.png>
+Package pdftex.def Info: ./pics/Fig5.png used on input line 310.
 (pdftex.def)             Requested size: 241.49895pt x 238.29892pt.
  [8]
 <./pics/connWeight.pdf, id=62, 518.03162pt x 500.45166pt>
 File: ./pics/connWeight.pdf Graphic file (type pdf)
 
 <use ./pics/connWeight.pdf>
-Package pdftex.def Info: ./pics/connWeight.pdf used on input line 350.
+Package pdftex.def Info: ./pics/connWeight.pdf used on input line 353.
 (pdftex.def)             Requested size: 241.49895pt x 233.30324pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (34.39743pt too wide) in paragraph at lines 359--377
+Overfull \hbox (34.39743pt too wide) in paragraph at lines 362--380
  [][] 
  []
 
 [9]
-Overfull \hbox (2.57689pt too wide) in paragraph at lines 397--397
+Overfull \hbox (2.57689pt too wide) in paragraph at lines 400--400
 []|\T1/lmr/bx/n/10 Node| 
  []
 
 
-Overfull \hbox (24.0pt too wide) in alignment at lines 394--398
+Overfull \hbox (24.0pt too wide) in alignment at lines 397--401
  [] [] 
  []
 
 
-Overfull \hbox (24.0pt too wide) in alignment at lines 398--418
+Overfull \hbox (24.0pt too wide) in alignment at lines 401--421
  [] [] 
  []
 
 [10 <./pics/connWeight.pdf>]
-Overfull \hbox (2.57689pt too wide) in paragraph at lines 426--426
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Overfull \hbox (2.57689pt too wide) in paragraph at lines 429--429
 []|\T1/lmr/bx/n/10 Node| 
  []
 
 
-Overfull \hbox (24.0pt too wide) in alignment at lines 423--427
+Overfull \hbox (24.0pt too wide) in alignment at lines 426--430
  [] [] 
  []
 
 
-Overfull \hbox (24.0pt too wide) in alignment at lines 427--446
+Overfull \hbox (24.0pt too wide) in alignment at lines 430--449
  [] [] 
  []
 
 
-Overfull \hbox (36.0pt too wide) in alignment at lines 453--457
+Overfull \hbox (36.0pt too wide) in alignment at lines 456--460
  [] [] [] 
  []
 
 
-Overfull \hbox (1.79768pt too wide) in paragraph at lines 469--469
+Overfull \hbox (1.79768pt too wide) in paragraph at lines 472--472
 []|\T1/lmr/m/n/10 world_trade_ctr| 
  []
 
 
-Overfull \hbox (36.0pt too wide) in alignment at lines 457--478
+Overfull \hbox (36.0pt too wide) in alignment at lines 460--481
  [] [] [] 
  []
 
 
-Overfull \hbox (36.0pt too wide) in alignment at lines 478--498
+Overfull \hbox (36.0pt too wide) in alignment at lines 481--501
  [] [] [] 
  []
 
 
-Overfull \hbox (36.0pt too wide) in alignment at lines 498--501
- [] [] [] 
- []
-
-[11]
-Overfull \hbox (36.0pt too wide) in alignment at lines 507--511
- [] [] [] 
- []
-
-
-Overfull \hbox (36.0pt too wide) in alignment at lines 511--532
- [] [] [] 
- []
-
-
-Overfull \hbox (36.0pt too wide) in alignment at lines 532--552
+Overfull \hbox (36.0pt too wide) in alignment at lines 501--504
  [] [] [] 
  []
 
 [12]
-Overfull \hbox (36.0pt too wide) in alignment at lines 552--557
+Overfull \hbox (36.0pt too wide) in alignment at lines 510--514
  [] [] [] 
  []
 
-[13] <./pics/terrorMaxPSCore.png, id=81, 881.54344pt x 595.47469pt>
+
+Overfull \hbox (36.0pt too wide) in alignment at lines 514--535
+ [] [] [] 
+ []
+
+
+Overfull \hbox (36.0pt too wide) in alignment at lines 535--555
+ [] [] [] 
+ []
+
+[13]
+Overfull \hbox (36.0pt too wide) in alignment at lines 555--560
+ [] [] [] 
+ []
+
+[14] <./pics/terrorMaxPSCore.png, id=84, 881.54344pt x 595.47469pt>
 File: ./pics/terrorMaxPSCore.png Graphic file (type png)
 
 <use ./pics/terrorMaxPSCore.png>
-Package pdftex.def Info: ./pics/terrorMaxPSCore.png used on input line 563.
+Package pdftex.def Info: ./pics/terrorMaxPSCore.png used on input line 566.
 (pdftex.def)             Requested size: 345.0pt x 233.04286pt.
 
-Overfull \hbox (83.64pt too wide) in alignment at lines 578--582
+Overfull \hbox (83.64pt too wide) in alignment at lines 581--585
  [] [] [] 
  []
 
 
-Overfull \hbox (83.64pt too wide) in alignment at lines 582--603
+Overfull \hbox (83.64pt too wide) in alignment at lines 585--606
  [] [] [] 
  []
 
 
-Overfull \hbox (83.64pt too wide) in alignment at lines 603--623
+Overfull \hbox (83.64pt too wide) in alignment at lines 606--626
  [] [] [] 
  []
 
-[14 <./pics/terrorMaxPSCore.png>]
-Overfull \hbox (83.64pt too wide) in alignment at lines 623--643
+[15 <./pics/terrorMaxPSCore.png>]
+Overfull \hbox (83.64pt too wide) in alignment at lines 626--646
  [] [] [] 
  []
 
 
-Overfull \hbox (83.64pt too wide) in alignment at lines 643--663
+Overfull \hbox (83.64pt too wide) in alignment at lines 646--666
  [] [] [] 
  []
 
-[15]
-Overfull \hbox (83.64pt too wide) in alignment at lines 663--673
+[16]
+Overfull \hbox (83.64pt too wide) in alignment at lines 666--676
  [] [] [] 
  []
 
-<./pics/StemCellMaxCore.png, id=89, 871.00406pt x 595.47469pt>
+<./pics/StemCellMaxCore.png, id=92, 871.00406pt x 595.47469pt>
 File: ./pics/StemCellMaxCore.png Graphic file (type png)
 
 <use ./pics/StemCellMaxCore.png>
-Package pdftex.def Info: ./pics/StemCellMaxCore.png used on input line 680.
+Package pdftex.def Info: ./pics/StemCellMaxCore.png used on input line 683.
 (pdftex.def)             Requested size: 345.0pt x 235.85957pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[16]
-Overfull \hbox (21.59724pt too wide) in alignment at lines 688--692
+[17]
+Overfull \hbox (21.59724pt too wide) in alignment at lines 691--695
  [] [] [] 
  []
 
 
-Overfull \hbox (21.59724pt too wide) in alignment at lines 692--713
+Overfull \hbox (21.59724pt too wide) in alignment at lines 695--716
  [] [] [] 
  []
 
 
-Overfull \hbox (21.59724pt too wide) in alignment at lines 713--733
+Overfull \hbox (21.59724pt too wide) in alignment at lines 716--736
  [] [] [] 
  []
 
-[17 <./pics/StemCellMaxCore.png>]
-Overfull \hbox (21.59724pt too wide) in alignment at lines 733--753
+[18 <./pics/StemCellMaxCore.png>]
+Overfull \hbox (21.59724pt too wide) in alignment at lines 736--756
  [] [] [] 
  []
 
 
-Overfull \hbox (21.59724pt too wide) in alignment at lines 753--773
+Overfull \hbox (21.59724pt too wide) in alignment at lines 756--776
  [] [] [] 
  []
 
-[18]
-Overfull \hbox (21.59724pt too wide) in alignment at lines 773--782
+[19]
+Overfull \hbox (21.59724pt too wide) in alignment at lines 776--785
  [] [] [] 
  []
 
-[19] <./pics/maxPsCore.png, id=104, 881.54344pt x 595.47469pt>
+[20] <./pics/maxPsCore.png, id=107, 881.54344pt x 595.47469pt>
 File: ./pics/maxPsCore.png Graphic file (type png)
 
 <use ./pics/maxPsCore.png>
-Package pdftex.def Info: ./pics/maxPsCore.png used on input line 789.
+Package pdftex.def Info: ./pics/maxPsCore.png used on input line 792.
 (pdftex.def)             Requested size: 345.0pt x 233.04286pt.
- [20 <./pics/maxPsCore.png>]
-Overfull \hbox (16.3249pt too wide) in alignment at lines 822--826
+ [21 <./pics/maxPsCore.png>]
+Overfull \hbox (16.3249pt too wide) in alignment at lines 825--829
  [] [] [] 
  []
 
 
-Overfull \hbox (16.3249pt too wide) in alignment at lines 826--849
+Overfull \hbox (16.3249pt too wide) in alignment at lines 829--852
  [] [] [] 
  []
 
-[21]
-Overfull \hbox (1.04321pt too wide) in alignment at lines 855--859
+[22]
+Overfull \hbox (1.04321pt too wide) in alignment at lines 858--862
  [] [] [] 
  []
 
 
-Overfull \hbox (1.04321pt too wide) in alignment at lines 859--872
+Overfull \hbox (1.04321pt too wide) in alignment at lines 862--875
  [] [] [] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22]
-(temporalCores.bbl) [23] (temporalCores.aux)
+ [23]
+(temporalCores.bbl [24]) [25] (temporalCores.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5252 strings out of 493334
- 69557 string characters out of 3136675
- 175524 words of memory out of 3000000
- 8641 multiletter control sequences out of 15000+200000
+ 5256 strings out of 493334
+ 69587 string characters out of 3136675
+ 175187 words of memory out of 3000000
+ 8645 multiletter control sequences out of 15000+200000
  87878 words of font info for 65 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,8n,42p,995b,1216s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,8n,42p,995b,1614s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files (x86)/MiKT
 eX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files (x86)/MiKTeX 2.9/font
@@ -716,9 +721,9 @@ c/lm/lmri12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy10
 .pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy5.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy7.pfb><C:/Program Files (
 x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on temporalCores.pdf (23 pages, 731707 bytes).
+Output written on temporalCores.pdf (25 pages, 735561 bytes).
 PDF statistics:
- 202 PDF objects out of 1000 (max. 8388607)
+ 209 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

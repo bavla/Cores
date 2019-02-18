@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{pqcore}
 A.~Ahmed, V.~Batagelj, X.~Fu, S.-H. Hong, D.~Merrick, and A.~Mrvar.
@@ -8,9 +8,21 @@ A.~Ahmed, V.~Batagelj, X.~Fu, S.-H. Hong, D.~Merrick, and A.~Mrvar.
 
 \bibitem{community}
 H.~Aksu, M.~Canim, Y.-C. Chang, I.~Korpeoglu, and Ö.~Ulusoy.
-\newblock A fast order-based approach for core maintenance.
-\newblock In {\em 2017 IEEE 33rd International Conference on Data Engineering}.
-  IEEE, 2017.
+\newblock Multi-resolution social network community identification and
+  maintenance on big data platform.
+\newblock In {\em 2013 IEEE International Congress on Big Data}. IEEE, 2013.
+
+\bibitem{aksu}
+H.~Aksu, M.~Canim, Y.-C. Chang, I.~Korpeoglu, and Ö.~Ulusoy.
+\newblock Distributed $k$-core view materialization and maintenance for large
+  dynamic graphs.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering},
+  26(10):2439 -- 2452, 2014.
+
+\bibitem{bladyg}
+S.~Aridhi, A.~Montresor, and Y.~Velegrakis.
+\newblock Bladyg: A graph processing framework for large dynamic graphs.
+\newblock {\em Big Data Research}, 9, 2017.
 
 \bibitem{batcores}
 V.~Batagelj and M.~Zaveršnik.
@@ -36,10 +48,22 @@ R.~Franzosi.
   approach to the study of narrative data.
 \newblock {\em Theory and Society}, 26(2-3):275--304, 1997.
 
+\bibitem{liyu}
+R.-H. Li and J.~X. Yu.
+\newblock Efficient core maintenance in large dynamic graphs.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering},
+  26:2453--2465, 2014.
+
 \bibitem{seidman}
 S.~B. Seidman.
 \newblock Network structure and minimum degree.
 \newblock {\em Social Networks}, 5:269–287, 1983.
+
+\bibitem{parallel}
+N.~Wang, D.~Yu, H.~Jin, C.~Qian, X.~Xie, and Q.-S. Hua.
+\newblock Parallel algorithm for core maintenance in dynamic graphs.
+\newblock In {\em 2017 IEEE 37th International Conference on Distributed
+  Computing Systems}. IEEE, 2017.
 
 \bibitem{core1}
 Y.~Zhang, J.~Xu~Yu, Y.~Zhang, and L.~Qin.
